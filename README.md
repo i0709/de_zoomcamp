@@ -5,15 +5,15 @@ I'll be documenting my journey from start to finish.
 
 ## Week 1: Docker Containerization and Terraform
 
-- 1. Docker launch and SQl
-- 2. Terraform exercise
+    1. Docker launch and SQl
+    2. Terraform exercise
 
 ## Week 2: Mage Ai (Pipelines)
 
-- 1. Mage ai to build ETL pipelines (template)
+    1. Mage ai to build ETL pipelines (template)
 
 ## Week 3: Data Warehouse
 
-- 1. Google cloud questions/answers
+    1. Google cloud questions/answers
 
-- Main course [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/)
+## Main course [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/)
