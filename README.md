@@ -12,5 +12,8 @@ I'll be documenting my journey from start to finish.
 
 - 1. Mage ai to build ETL pipelines (template)
 
+## Week 3: Data Warehouse
+
+- 1. Google cloud questions/answers
 
 - Main course [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/)
