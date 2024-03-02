@@ -16,4 +16,8 @@ I'll be documenting my journey from start to finish.
 
     1. Google cloud questions/answers
 
+## Week 4: Analytics Engineering - DBT
+
+    1. Folder to configure homework DBT files   
+
 ## Main course [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/)
